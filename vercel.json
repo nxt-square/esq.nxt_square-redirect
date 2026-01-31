@@ -29,6 +29,18 @@
       "source": "/nxt-10",            
       "destination": "https://esim.telecomsquare.net/?affiliateId=462",
       "permanent": true
+    },{
+      "source": "/jtb-10",            
+      "destination": "https://esim.telecomsquare.net/?affiliateId=458",
+      "permanent": true
+    },{
+      "source": "/nta-10",            
+      "destination": "https://esim.telecomsquare.net/?affiliateId=459",
+      "permanent": true
+    },{
+      "source": "/tta-10",            
+      "destination": "https://esim.telecomsquare.net/?affiliateId=468",
+      "permanent": true
     },
     {
       "source": "/amnet",            
